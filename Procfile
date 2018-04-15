@@ -1,1 +1,1 @@
-web: webApp
+web: wep-app
